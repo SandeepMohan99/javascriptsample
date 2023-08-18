@@ -42,5 +42,8 @@ else{
     console.log(`${num2} is greater than ${num1}`);
 }
 
+/* terinary operator */
+num1 = 50
+num2 = 100
 console.log(num1>num2?`${num1} is greater than ${num2}` : num1==num2? 'both are equal' : `${num2} is greater than ${num1}`);
    
